@@ -3,7 +3,7 @@
 **Data Scientist and ML engineer.** I graduated in June 2026 with a B.Sc. in Communications & Information Engineering from Zewail City. I like work that starts with a real question and ends with a model or a statistical answer people can act on.
 
 - 📄 **Published:** co-author of *Quality of AI-Generated vs. Human-Generated Code*, ICCTA 2024, IEEE Xplore ([paper](https://doi.org/10.1109/ICCTA64612.2024.10974782))
-- 🎯 **Looking for:** Data Scientist / ML Engineer roles (junior or graduate), remote or in Egypt
+- 🎯 **Looking for:** Data Scientist / ML Engineer roles, remote or in Egypt
 
 ---
 
